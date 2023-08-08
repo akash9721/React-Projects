@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Projects/static/css/main.6212235b.css",
+    "main.js": "/React-Projects/static/js/main.80fbad63.js",
+    "static/js/787.2d3dca4d.chunk.js": "/React-Projects/static/js/787.2d3dca4d.chunk.js",
+    "static/media/spinner.gif": "/React-Projects/static/media/spinner.d3fbaf2b81fd92c49692.gif",
+    "index.html": "/React-Projects/index.html",
+    "main.6212235b.css.map": "/React-Projects/static/css/main.6212235b.css.map",
+    "main.80fbad63.js.map": "/React-Projects/static/js/main.80fbad63.js.map",
+    "787.2d3dca4d.chunk.js.map": "/React-Projects/static/js/787.2d3dca4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6212235b.css",
+    "static/js/main.80fbad63.js"
+  ]
+}
